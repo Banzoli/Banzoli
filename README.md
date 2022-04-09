@@ -29,4 +29,5 @@ I am _Guilherme Banzoli_.
   <img src="https://profile-counter.glitch.me/Banzoli/count.svg" />
 </p>
   
-    ![Snake animation](https://github.com/Banzoli/Banzoli/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Banzoli/Banzoli/blob/output/github-contribution-grid-snake.svg)
+</p>
