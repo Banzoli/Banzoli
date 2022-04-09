@@ -32,11 +32,9 @@ I am _Guilherme Banzoli_.
     
   </div>
   
-  <p align="center"> 
-    
+  <p align="center">  
   Visitors count<br>
-  <img src="https://profile-counter.glitch.me/Banzoli/count.svg" />
-    
+  <img src="https://profile-counter.glitch.me/Banzoli/count.svg" />   
 </p>
   
 ![snake gif](https://github.com/Banzoli/Banzoli/blob/output/github-contribution-grid-snake.svg)
