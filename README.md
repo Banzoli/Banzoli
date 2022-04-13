@@ -20,6 +20,7 @@ I am _Guilherme Banzoli_.
  <img align="center" alt="Banzoli-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
  <img align="center" alt="Banzoli-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
  <img align="center" alt="Banzoli-Oracle" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
+ <img align="center" alt="Banzoli-Angular" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
    
 </div>
   
